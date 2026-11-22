@@ -19,3 +19,5 @@
 
 - Jacky corrected the canonical directory to nano-fw-flasher. Moved current/history metadata there; preserved both earlier stable catalogs for installed v0.0.2/v0.0.3 clients. Other apps unchanged.
 - Published signed v0.0.4 from d59ba89, same release identity. ZIP SHA-256 0ea0d8f1b92c4633291e5c4819ab272281a4a7b212c6466b9deadff52e3b0b31. Public channel checks follow publication.
+
+- Verified public v0.0.4 download/signature/size/SHA-256 through nano-fw-flasher. Original v0.0.2 and v0.0.3 updater code independently checked/downloaded v0.0.4 through their embedded legacy channels. Same signing public key retained; runtime replacement/restart not executed.
