@@ -14,3 +14,8 @@
 - Published signed v0.0.3 from source 936b80c, with the same public key and new embedded feed. ZIP SHA-256 ef347ae03b2458a16c309c525f099eda8d4bf937e83b451586697b327503d05d. Package filenames and existing Release tag prefix preserved. Tests/vet/Windows build/signed packing passed; public old/new channel verification follows.
 
 - Public verification passed: v0.0.3 actual client downloaded via nano_fw_flasher stable channel and validated the signature/size/SHA-256. Original v0.0.2 client code with its embedded old goesp32 endpoint and public key independently checked/downloaded v0.0.3. Both release identities match. No runtime replacement/restart was executed.
+
+## 2026-11-22 Hyphen correction
+
+- Jacky corrected the canonical directory to nano-fw-flasher. Moved current/history metadata there; preserved both earlier stable catalogs for installed v0.0.2/v0.0.3 clients. Other apps unchanged.
+- Published signed v0.0.4 from d59ba89, same release identity. ZIP SHA-256 0ea0d8f1b92c4633291e5c4819ab272281a4a7b212c6466b9deadff52e3b0b31. Public channel checks follow publication.

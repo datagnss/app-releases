@@ -2,16 +2,16 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.3/goESP32-v0.0.3-windows-amd64.zip",
-        "name": "goESP32-v0.0.3-windows-amd64.zip"
+        "browser_download_url": "https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.4/goESP32-v0.0.4-windows-amd64.zip",
+        "name": "goESP32-v0.0.4-windows-amd64.zip"
       },
       {
-        "browser_download_url": "https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.3/goESP32-windows-amd64.update.json",
+        "browser_download_url": "https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.4/goESP32-windows-amd64.update.json",
         "name": "goESP32-windows-amd64.update.json"
       }
     ],
     "draft": false,
     "prerelease": false,
-    "tag_name": "v0.0.3"
+    "tag_name": "v0.0.4"
   }
 ]
