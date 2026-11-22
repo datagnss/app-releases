@@ -21,3 +21,9 @@
 - Published signed v0.0.4 from d59ba89, same release identity. ZIP SHA-256 0ea0d8f1b92c4633291e5c4819ab272281a4a7b212c6466b9deadff52e3b0b31. Public channel checks follow publication.
 
 - Verified public v0.0.4 download/signature/size/SHA-256 through nano-fw-flasher. Original v0.0.2 and v0.0.3 updater code independently checked/downloaded v0.0.4 through their embedded legacy channels. Same signing public key retained; runtime replacement/restart not executed.
+
+## 2026-11-22 v0.0.5
+
+- Jacky explicitly confirmed publishing/uploading v0.0.5 for upgrade testing. Published the previously prepared signed candidate from source 5802b72, with independent app progress beside the version and no firmware progress/status writes.
+- Both public Release assets matched local bytes before publishing stable catalogs. ZIP 8,126,040 bytes, SHA-256 fd04d42c8224ffe299c36b1734a16bfef1301ba6b3104bf0aad719ce5932daed. Same release signing identity. Updated canonical and both compatibility catalogs; other apps/history unchanged.
+- Windows build, native UI lifecycle/isolation checks, tests and vet passed during candidate preparation. Public client verification follows catalog publication.

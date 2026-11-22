@@ -2,7 +2,7 @@
 
 Windows amd64 portable firmware utility.
 
-- [Download v0.0.4](https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.4/goESP32-v0.0.4-windows-amd64.zip)
+- [Download v0.0.5](https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.5/goESP32-v0.0.5-windows-amd64.zip)
 - [Stable update catalog](windows-amd64/stable/releases.json)
 - [Release history](https://github.com/datagnss/app-releases/releases?q=goesp32-)
 
