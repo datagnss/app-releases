@@ -5,4 +5,4 @@
 
 ## goESP32
 
-[Windows downloads and update channel](goesp32/README.md)
+[Windows downloads and update channel](nano_fw_flasher/README.md)
