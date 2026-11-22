@@ -27,3 +27,5 @@
 - Jacky explicitly confirmed publishing/uploading v0.0.5 for upgrade testing. Published the previously prepared signed candidate from source 5802b72, with independent app progress beside the version and no firmware progress/status writes.
 - Both public Release assets matched local bytes before publishing stable catalogs. ZIP 8,126,040 bytes, SHA-256 fd04d42c8224ffe299c36b1734a16bfef1301ba6b3104bf0aad719ce5932daed. Same release signing identity. Updated canonical and both compatibility catalogs; other apps/history unchanged.
 - Windows build, native UI lifecycle/isolation checks, tests and vet passed during candidate preparation. Public client verification follows catalog publication.
+
+- Final verification succeeded after GitHub Raw cache refresh: actual updater checked/downloaded v0.0.5 from the default canonical main URL and validated signature, length and SHA-256. Original v0.0.2/v0.0.3 updater implementations also checked/downloaded v0.0.5 via compatibility catalogs. Jacky will verify actual UI replacement/restart; no hardware accessed.
