@@ -33,3 +33,7 @@
 ## 2026-11-23 v0.0.7
 - Published verified Windows signed package and Mac ARM64 test bundle in goesp32-v0.0.7; public attachments match local candidates. Windows SHA256 93fedc2081c28dde8b22717364bae938b21458afed37dd023d3f99254ca9c13d.
 - Synchronized canonical and two compatibility catalogs; retained historical releases and signing identity. Source PR9 merged to dev b5d6d0d. No hardware or real in-place restart validation.
+
+## 2026-11-23 v0.0.8
+- Published Windows signed update and Mac ARM64 test bundle from dev6c0c55c. Update notices are inline before the version, centered vertically, and hide after four seconds; old timers cannot dismiss new results.
+- Public attachments match local bytes. Windows ZIP SHA256 a2afe7d2141c5561d3beede1a0bb29fce0291ed238f9bcf5a948282cb7fbf74b. Existing signing identity retained, canonical and two compatibility feeds synchronized; historical versions unchanged.
