@@ -29,3 +29,7 @@
 - Windows build, native UI lifecycle/isolation checks, tests and vet passed during candidate preparation. Public client verification follows catalog publication.
 
 - Final verification succeeded after GitHub Raw cache refresh: actual updater checked/downloaded v0.0.5 from the default canonical main URL and validated signature, length and SHA-256. Original v0.0.2/v0.0.3 updater implementations also checked/downloaded v0.0.5 via compatibility catalogs. Jacky will verify actual UI replacement/restart; no hardware accessed.
+
+## 2026-11-23 v0.0.7
+- Published verified Windows signed package and Mac ARM64 test bundle in goesp32-v0.0.7; public attachments match local candidates. Windows SHA256 93fedc2081c28dde8b22717364bae938b21458afed37dd023d3f99254ca9c13d.
+- Synchronized canonical and two compatibility catalogs; retained historical releases and signing identity. Source PR9 merged to dev b5d6d0d. No hardware or real in-place restart validation.
