@@ -2,7 +2,7 @@
 
 Windows amd64 portable GNSS utility.
 
-- [Download v1.0.3](https://github.com/datagnss/app-releases/releases/download/nano-toolbox-v1.0.3/NANO-toolbox-v1.0.3-windows-amd64.zip)
+- [Download v1.0.4](https://github.com/datagnss/app-releases/releases/download/nano-toolbox-v1.0.4/NANO-toolbox-v1.0.4-windows-amd64.zip)
 - [Stable update catalog](windows-amd64/stable/releases.json)
 - [Release history](https://github.com/datagnss/app-releases/releases?q=nano-toolbox-)
 

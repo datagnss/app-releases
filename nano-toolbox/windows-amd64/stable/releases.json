@@ -2,16 +2,16 @@
   {
     "assets": [
       {
-        "browser_download_url": "https://github.com/datagnss/app-releases/releases/download/nano-toolbox-v1.0.3/NANO-toolbox-v1.0.3-windows-amd64.zip",
-        "name": "NANO-toolbox-v1.0.3-windows-amd64.zip"
+        "browser_download_url": "https://github.com/datagnss/app-releases/releases/download/nano-toolbox-v1.0.4/NANO-toolbox-v1.0.4-windows-amd64.zip",
+        "name": "NANO-toolbox-v1.0.4-windows-amd64.zip"
       },
       {
-        "browser_download_url": "https://github.com/datagnss/app-releases/releases/download/nano-toolbox-v1.0.3/NANO-toolbox-windows-amd64.update.json",
+        "browser_download_url": "https://github.com/datagnss/app-releases/releases/download/nano-toolbox-v1.0.4/NANO-toolbox-windows-amd64.update.json",
         "name": "NANO-toolbox-windows-amd64.update.json"
       }
     ],
     "draft": false,
     "prerelease": false,
-    "tag_name": "v1.0.3"
+    "tag_name": "v1.0.4"
   }
 ]
