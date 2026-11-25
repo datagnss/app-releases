@@ -10,7 +10,7 @@
       "assets": {
         "ota": {
           "name": "nano.rtk.15.v3_2.1.0.8.1496.fffbdd.dgfw",
-          "url": "https://github.com/datagnss/app-releases/releases/download/nano-rtk-v1.0.8.1496.fffbdd/nano.rtk.15.v3_2.1.0.8.1496.fffbdd.dgfw",
+          "url": "https://raw.githubusercontent.com/datagnss/app-releases/f4f26211753d4c0ce0385ea443034704ce05798e/nano_rtk/versions/1.0.8.1496.fffbdd/nano.rtk.15.v3_2.1.0.8.1496.fffbdd.dgfw",
           "size": 3385312,
           "sha256": "9e6dc3b3259b1c8a0110c788513fa4bcf75fdacc31ccca0763337ac0176cd3e7"
         },
@@ -27,7 +27,7 @@
       "assets": {
         "ota": {
           "name": "nano.rtk.15.v3_5.1.0.8.1496.fffbdd.dgfw",
-          "url": "https://github.com/datagnss/app-releases/releases/download/nano-rtk-v1.0.8.1496.fffbdd/nano.rtk.15.v3_5.1.0.8.1496.fffbdd.dgfw",
+          "url": "https://raw.githubusercontent.com/datagnss/app-releases/f4f26211753d4c0ce0385ea443034704ce05798e/nano_rtk/versions/1.0.8.1496.fffbdd/nano.rtk.15.v3_5.1.0.8.1496.fffbdd.dgfw",
           "size": 3931232,
           "sha256": "aab10882d466ccee284e2126654a5b147765c3759a1483a6bfa360b7c8833491"
         },
@@ -44,7 +44,7 @@
       "assets": {
         "ota": {
           "name": "nano.rtk.15.v3_5d.1.0.8.1496.fffbdd.dgfw",
-          "url": "https://github.com/datagnss/app-releases/releases/download/nano-rtk-v1.0.8.1496.fffbdd/nano.rtk.15.v3_5d.1.0.8.1496.fffbdd.dgfw",
+          "url": "https://raw.githubusercontent.com/datagnss/app-releases/f4f26211753d4c0ce0385ea443034704ce05798e/nano_rtk/versions/1.0.8.1496.fffbdd/nano.rtk.15.v3_5d.1.0.8.1496.fffbdd.dgfw",
           "size": 3935184,
           "sha256": "2ccae9eb0c780b8f3589423702ea2fcd2c46854ca479d536a4bba95017e424ba"
         },
@@ -61,7 +61,7 @@
       "assets": {
         "ota": {
           "name": "nano.rtk.15.v3_5d_ppp.1.0.8.1496.fffbdd.dgfw",
-          "url": "https://github.com/datagnss/app-releases/releases/download/nano-rtk-v1.0.8.1496.fffbdd/nano.rtk.15.v3_5d_ppp.1.0.8.1496.fffbdd.dgfw",
+          "url": "https://raw.githubusercontent.com/datagnss/app-releases/f4f26211753d4c0ce0385ea443034704ce05798e/nano_rtk/versions/1.0.8.1496.fffbdd/nano.rtk.15.v3_5d_ppp.1.0.8.1496.fffbdd.dgfw",
           "size": 3935440,
           "sha256": "35803d5744270835bfe99dd8b2300c7eb67c4585919b970ac14acdbb4b2600c5"
         },
