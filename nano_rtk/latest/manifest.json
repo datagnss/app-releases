@@ -1,24 +1,25 @@
 {
-  "version": "1.0.8.1496.fffbdd",
-  "release_url": "https://github.com/datagnss/app-releases/releases/tag/nano-rtk-v1.0.8.1496.fffbdd",
-  "release_date": "2026-11-22",
-  "source_commit": "c2244e906d00a0e9915a6eb7e2631b46d7fb9907",
-  "source_release_tag": "1.0.8.1496.fffbdd",
+  "version": "1.0.8.1497.456a74",
+  "release_url": "https://github.com/datagnss/app-releases/releases/tag/nano-rtk-v1.0.8.1497.456a74",
+  "release_date": "2026-11-26",
+  "source_commit": "13e1767cd680bc3c1809884a53ac70ccf65f6e14",
+  "source_release_tag": "1.0.8.1497.456a74",
   "boards": {
     "v32": {
       "model": "v3.2",
       "assets": {
         "ota": {
-          "name": "nano.rtk.15.v3_2.1.0.8.1496.fffbdd.dgfw",
-          "url": "https://raw.githubusercontent.com/datagnss/app-releases/f4f26211753d4c0ce0385ea443034704ce05798e/nano_rtk/versions/1.0.8.1496.fffbdd/nano.rtk.15.v3_2.1.0.8.1496.fffbdd.dgfw",
-          "size": 3385312,
-          "sha256": "9e6dc3b3259b1c8a0110c788513fa4bcf75fdacc31ccca0763337ac0176cd3e7"
+          "name": "nano.rtk.15.v3_2.1.0.8.1497.456a74.dgfw",
+          "size": 3402960,
+          "sha256": "ce00d8de09da0c49e8ab60c79aa576949a75038fd8215d2b7f4d3bb6305d96cc",
+          "url": "https://raw.githubusercontent.com/datagnss/app-releases/5fa000c2ef4380ce6bd61e78eac7c01869671ed3/nano_rtk/versions/1.0.8.1497.456a74/nano.rtk.15.v3_2.1.0.8.1497.456a74.dgfw",
+          "web_update_ui": true
         },
         "full_flash": {
-          "name": "nano.rtk.15.v3_2.1.0.8.1496.fffbdd.bin",
-          "url": "https://github.com/datagnss/app-releases/releases/download/nano-rtk-v1.0.8.1496.fffbdd/nano.rtk.15.v3_2.1.0.8.1496.fffbdd.bin",
+          "name": "nano.rtk.15.v3_2.1.0.8.1497.456a74.bin",
           "size": 8323072,
-          "sha256": "10e694ac9d8123a175565fc4ef28372a33a35c3530eceef94817980826655f94"
+          "sha256": "27a1f250cc845b5507bb30a3fe4feae15f743603fb7dd17286739f87efe42b4d",
+          "url": "https://github.com/datagnss/app-releases/releases/download/nano-rtk-v1.0.8.1497.456a74/nano.rtk.15.v3_2.1.0.8.1497.456a74.bin"
         }
       }
     },
@@ -26,16 +27,17 @@
       "model": "v3.5",
       "assets": {
         "ota": {
-          "name": "nano.rtk.15.v3_5.1.0.8.1496.fffbdd.dgfw",
-          "url": "https://raw.githubusercontent.com/datagnss/app-releases/f4f26211753d4c0ce0385ea443034704ce05798e/nano_rtk/versions/1.0.8.1496.fffbdd/nano.rtk.15.v3_5.1.0.8.1496.fffbdd.dgfw",
-          "size": 3931232,
-          "sha256": "aab10882d466ccee284e2126654a5b147765c3759a1483a6bfa360b7c8833491"
+          "name": "nano.rtk.15.v3_5.1.0.8.1497.456a74.dgfw",
+          "size": 3952144,
+          "sha256": "a6e76d629b46b7d141604c6cfb668c07d3cd177c274ea7f2fd899e258fba061a",
+          "url": "https://raw.githubusercontent.com/datagnss/app-releases/5fa000c2ef4380ce6bd61e78eac7c01869671ed3/nano_rtk/versions/1.0.8.1497.456a74/nano.rtk.15.v3_5.1.0.8.1497.456a74.dgfw",
+          "web_update_ui": true
         },
         "full_flash": {
-          "name": "nano.rtk.15.v3_5.1.0.8.1496.fffbdd.bin",
-          "url": "https://github.com/datagnss/app-releases/releases/download/nano-rtk-v1.0.8.1496.fffbdd/nano.rtk.15.v3_5.1.0.8.1496.fffbdd.bin",
+          "name": "nano.rtk.15.v3_5.1.0.8.1497.456a74.bin",
           "size": 8323072,
-          "sha256": "d7c50f343d579f10d1d76bd9a13f3361794e7d32f6298639230ec7317769b4e2"
+          "sha256": "02fab11165219149017185dd2b925e0533373141aaaf0304a24f631ac4037c9b",
+          "url": "https://github.com/datagnss/app-releases/releases/download/nano-rtk-v1.0.8.1497.456a74/nano.rtk.15.v3_5.1.0.8.1497.456a74.bin"
         }
       }
     },
@@ -43,16 +45,17 @@
       "model": "v3.5D",
       "assets": {
         "ota": {
-          "name": "nano.rtk.15.v3_5d.1.0.8.1496.fffbdd.dgfw",
-          "url": "https://raw.githubusercontent.com/datagnss/app-releases/f4f26211753d4c0ce0385ea443034704ce05798e/nano_rtk/versions/1.0.8.1496.fffbdd/nano.rtk.15.v3_5d.1.0.8.1496.fffbdd.dgfw",
-          "size": 3935184,
-          "sha256": "2ccae9eb0c780b8f3589423702ea2fcd2c46854ca479d536a4bba95017e424ba"
+          "name": "nano.rtk.15.v3_5d.1.0.8.1497.456a74.dgfw",
+          "size": 3956192,
+          "sha256": "5a97e54d4d3927c6e7c8ee9fffdf7b57c797370a488810aabeb148b6288a29b2",
+          "url": "https://raw.githubusercontent.com/datagnss/app-releases/5fa000c2ef4380ce6bd61e78eac7c01869671ed3/nano_rtk/versions/1.0.8.1497.456a74/nano.rtk.15.v3_5d.1.0.8.1497.456a74.dgfw",
+          "web_update_ui": true
         },
         "full_flash": {
-          "name": "nano.rtk.15.v3_5d.1.0.8.1496.fffbdd.bin",
-          "url": "https://github.com/datagnss/app-releases/releases/download/nano-rtk-v1.0.8.1496.fffbdd/nano.rtk.15.v3_5d.1.0.8.1496.fffbdd.bin",
+          "name": "nano.rtk.15.v3_5d.1.0.8.1497.456a74.bin",
           "size": 8323072,
-          "sha256": "10c41f590bed5a175ca1d72ffe96ef5ee2eb566dabbbbddf5c85795e9efa5e22"
+          "sha256": "aca01e25a2444ed292b67f28f1ebe7a32c6df8216609e8572e7905d9761aee5d",
+          "url": "https://github.com/datagnss/app-releases/releases/download/nano-rtk-v1.0.8.1497.456a74/nano.rtk.15.v3_5d.1.0.8.1497.456a74.bin"
         }
       }
     },
@@ -60,16 +63,17 @@
       "model": "v3.5D PPP",
       "assets": {
         "ota": {
-          "name": "nano.rtk.15.v3_5d_ppp.1.0.8.1496.fffbdd.dgfw",
-          "url": "https://raw.githubusercontent.com/datagnss/app-releases/f4f26211753d4c0ce0385ea443034704ce05798e/nano_rtk/versions/1.0.8.1496.fffbdd/nano.rtk.15.v3_5d_ppp.1.0.8.1496.fffbdd.dgfw",
-          "size": 3935440,
-          "sha256": "35803d5744270835bfe99dd8b2300c7eb67c4585919b970ac14acdbb4b2600c5"
+          "name": "nano.rtk.15.v3_5d_ppp.1.0.8.1497.456a74.dgfw",
+          "size": 3955344,
+          "sha256": "34f9634ec8dde7c28a60e42f6d2dd2a8d5ed6d985f4cee428961110009f79c41",
+          "url": "https://raw.githubusercontent.com/datagnss/app-releases/5fa000c2ef4380ce6bd61e78eac7c01869671ed3/nano_rtk/versions/1.0.8.1497.456a74/nano.rtk.15.v3_5d_ppp.1.0.8.1497.456a74.dgfw",
+          "web_update_ui": true
         },
         "full_flash": {
-          "name": "nano.rtk.15.v3_5d_ppp.1.0.8.1496.fffbdd.bin",
-          "url": "https://github.com/datagnss/app-releases/releases/download/nano-rtk-v1.0.8.1496.fffbdd/nano.rtk.15.v3_5d_ppp.1.0.8.1496.fffbdd.bin",
+          "name": "nano.rtk.15.v3_5d_ppp.1.0.8.1497.456a74.bin",
           "size": 8323072,
-          "sha256": "a2b22b71a4b39b583236d45003d1337a9879d3dd0c1e294aa134e923e2a24bb2"
+          "sha256": "fd14f8a04d0a7dc376453d8fa458f22cfdbbe9c504532ff8a900a1ca510579b1",
+          "url": "https://github.com/datagnss/app-releases/releases/download/nano-rtk-v1.0.8.1497.456a74/nano.rtk.15.v3_5d_ppp.1.0.8.1497.456a74.bin"
         }
       }
     }
