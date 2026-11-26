@@ -2,7 +2,7 @@
 
 Windows amd64 portable firmware utility.
 
-- [Download v0.0.8](https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.8/nano-rtk-flasher-v0.0.8-windows-amd64.zip)
+- [Download v0.0.9](https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.9/nano-rtk-flasher-v0.0.9-windows-amd64.zip)
 - [Stable update catalog](windows-amd64/stable/releases.json)
 - [Release history](https://github.com/datagnss/app-releases/releases?q=goesp32-)
 
@@ -14,6 +14,6 @@ The canonical remote application directory is `nano-fw-flasher/`. The previous `
 
 The earlier `nano_fw_flasher/windows-amd64/stable/releases.json` is also retained as a compatibility mirror for installed v0.0.3 clients. The canonical directory uses hyphens: `nano-fw-flasher/`.
 
-Extract and run `nano-rtk-flasher.exe`. Version v0.0.8 uses only the new nano-rtk-flasher asset names; old goESP32 updaters require a manual download.
+Extract and run `nano-rtk-flasher.exe`. This version uses the nano-rtk-flasher asset names; old goESP32 updaters require a manual download.
 
-Mac ARM64 test bundle: [v0.0.8 .app ZIP](https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.8/nano-rtk-flasher-macos_arm64-app-6c0c55c.zip). Includes the application icon; no Developer ID signing or notarization, and Mac runtime/hardware remains unverified.
+Mac ARM64 test bundle: [v0.0.9 .app ZIP](https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.9/nano-rtk-flasher-macos_arm64-app-dc63703.zip). Includes the application icon; no Developer ID signing or notarization, and Mac runtime/hardware remains unverified.

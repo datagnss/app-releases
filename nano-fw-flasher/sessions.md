@@ -37,3 +37,8 @@
 ## 2026-11-23 v0.0.8
 - Published Windows signed update and Mac ARM64 test bundle from dev6c0c55c. Update notices are inline before the version, centered vertically, and hide after four seconds; old timers cannot dismiss new results.
 - Public attachments match local bytes. Windows ZIP SHA256 a2afe7d2141c5561d3beede1a0bb29fce0291ed238f9bcf5a948282cb7fbf74b. Existing signing identity retained, canonical and two compatibility feeds synchronized; historical versions unchanged.
+
+## 2026-11-26 v0.0.9
+
+- Published the Windows x64 signed update and macOS ARM64 test bundle from goESP32 dev dc63703. Added official firmware discovery and verified download, v3.5D CLAS and PPP model labels, and prominent flash status.
+- All public assets matched the local build before switching the stable catalogs. Windows ZIP is 7,957,439 bytes. SHA-256 c1ba04131adb6f5e669bf96a983717f2cf85b04ab8d001ae3dc1cf1e08088cbe. Existing signing identity retained.
