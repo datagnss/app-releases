@@ -1,8 +1,8 @@
 # NANO RTK Flasher
 
-Windows amd64 portable firmware utility.
+Portable firmware utility for Windows x64, with macOS test bundles.
 
-- [Download v0.0.9](https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.9/nano-rtk-flasher-v0.0.9-windows-amd64.zip)
+- [Windows x64 v0.0.10](https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.10/nano-rtk-flasher-v0.0.10-windows-amd64.zip)
 - [Stable update catalog](windows-amd64/stable/releases.json)
 - [Release history](https://github.com/datagnss/app-releases/releases?q=goesp32-)
 
@@ -16,4 +16,4 @@ The earlier `nano_fw_flasher/windows-amd64/stable/releases.json` is also retaine
 
 Extract and run `nano-rtk-flasher.exe`. This version uses the nano-rtk-flasher asset names; old goESP32 updaters require a manual download.
 
-Mac ARM64 test bundle: [v0.0.9 .app ZIP](https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.9/nano-rtk-flasher-macos_arm64-app-dc63703.zip). Includes the application icon; no Developer ID signing or notarization, and Mac runtime/hardware remains unverified.
+macOS v0.0.10 test bundles: [Apple Silicon](https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.10/nano-rtk-flasher-macos_arm64-app-6cbf2bd.zip) and [Intel](https://github.com/datagnss/app-releases/releases/download/goesp32-v0.0.10/nano-rtk-flasher-macos_x64-app-6cbf2bd.zip). Mac runtime and hardware checks are pending. These bundles lack Developer ID signing and notarization.

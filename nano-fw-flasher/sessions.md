@@ -42,3 +42,8 @@
 
 - Published the Windows x64 signed update and macOS ARM64 test bundle from goESP32 dev dc63703. Added official firmware discovery and verified download, v3.5D CLAS and PPP model labels, and prominent flash status.
 - All public assets matched the local build before switching the stable catalogs. Windows ZIP is 7,957,439 bytes. SHA-256 c1ba04131adb6f5e669bf96a983717f2cf85b04ab8d001ae3dc1cf1e08088cbe. Existing signing identity retained.
+
+## 2026-11-27 v0.0.10
+
+- Published the Windows x64 signed update and macOS Apple Silicon and Intel test bundles from goESP32 dev 6cbf2bd (PR #17). On macOS, Find probes the higher WCH port and Manual retains both. Stopping Monitor leaves the port selected for the next explicit Find.
+- All five public assets matched the local packages. Windows ZIP is 7,960,121 bytes. SHA-256 890f3f4fbf42cef92404b41d22ea8a82476b82e28a6c6a480c88394f1050ef30. The existing update identity and both Windows compatibility feeds are retained.
